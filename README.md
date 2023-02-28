@@ -7,4 +7,4 @@ Anki is avaliable on all major platforms including mobile.
 
 Just `import` the flashcard deck and get started!
 
-This is a draft and likely contains errors..
+Please keep in mind that this is a draft and it likely contains many errors..
