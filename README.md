@@ -3,7 +3,7 @@
 ##### Use the Anki flashcard application:
 - https://apps.ankiweb.net/
 
-Anki is avaliable on all major platforms including mobile.
+`Anki` is a very popular flashcard application and is avaliable on all major platforms including mobile.
 
 Just download and `import` the `.apkg` flashcard deck and get started!
 
