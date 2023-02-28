@@ -5,6 +5,6 @@
 
 `Anki` is a very popular flashcard application and is avaliable on all major platforms including mobile.
 
-Just download and `import` the `.apkg` flashcard deck and get started!
+Just download and `import` the `.apkg` flashcard deck to get started!
 
-Please keep in mind that this is a draft and it likely contains many errors..
+##### Please keep in mind that this is a draft and it likely contains many errors.. I will be improving this over time.
