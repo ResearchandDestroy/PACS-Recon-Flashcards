@@ -7,7 +7,7 @@ I build this while studying visual reconnaissance of RFID badge readers.
 
 `Anki` is a very popular flashcard application and is avaliable on all major platforms including mobile.
 
-Just download and `import` the `.apkg` flashcard deck to get started!
+Just download and install `Anki`. Then `import` the `.apkg` flashcard deck to get started!
 
 ##### Please keep in mind that this is a draft and it likely contains errors..
 ##### There are also certainly some badge reader brands I have not yet included. I will be improving this over time.
