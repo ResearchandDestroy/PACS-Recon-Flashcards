@@ -1,6 +1,6 @@
 #### Physical Access Control Systems (PACS) Reconnaissance Flashcards
 
-I build this while studying visual reconnaissance of RFID badge readers.
+I build this while studying visual reconnaissance of RFID badge readers for covert entry.
 
 ##### Use the Anki flashcard application:
 - https://apps.ankiweb.net/
