@@ -13,3 +13,34 @@ Just download and install `Anki`. Then `import` the `.apkg` flashcard deck to ge
 ##### There are also certainly some badge reader brands I have not yet included. I will be improving this over time.
 
 Any badge readers marked with `*****` are still under review.
+
+PACS manufacturers added:
+```
+HID
+Indala
+AWID
+Kantech
+Farpointe Data
+Secura Key
+Nedap
+Verex
+PAC
+EMX
+A3M
+Honeywell
+Jablotron
+Presco
+```
+
+PACS manufacturers to add:
+```
+Keri
+DoorKing
+Liftmaster
+Noralsy
+Viking
+Schlage
+Essex
+Identiv
+...
+```
