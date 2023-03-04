@@ -12,4 +12,4 @@ Just download and install `Anki`. Then `import` the `.apkg` flashcard deck to ge
 ##### Please keep in mind that this is a draft and likely contains errors..
 ##### There are also certainly some badge reader brands I have not yet included. I will be improving this over time.
 
-Badge readers marked with a `*****` are still under review.
+Any badge readers marked with `*****` are still under review.
