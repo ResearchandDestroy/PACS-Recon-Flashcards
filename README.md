@@ -14,7 +14,7 @@ Just download and install `Anki`. Then `import` the `.apkg` flashcard deck to ge
 
 Any badge readers marked with `*****` are still under review.
 
-##### PACS manufacturers added:
+##### PACS Manufacturers Added:
 
 - HID
 - Indala
@@ -31,7 +31,7 @@ Any badge readers marked with `*****` are still under review.
 - Jablotron
 - Presco
 
-##### PACS manufacturers to add:
+##### PACS Manufacturers to Add:
 
 - Keri
 - DoorKing
