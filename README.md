@@ -12,7 +12,7 @@ Just download and install `Anki`. Then `import` the `.apkg` flashcard deck to ge
 #### Please keep in mind that this may contain errors.. If you find an error please let me know!
 #### There are also certainly more PACS brands I have not included yet. See the list below for more information.
 
-Any badge readers marked with `*****` is still under review.
+_Any badge readers marked with `*****` is still under review._
 
 #### PACS Manufacturers Added:
 
