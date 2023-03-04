@@ -9,8 +9,8 @@ I build this while studying visual reconnaissance of RFID badge readers for cove
 
 Just download and install `Anki`. Then `import` the `.apkg` flashcard deck to get started!
 
-##### Please keep in mind that this may contain errors..
-##### There are also certainly more PACS brands I have not yet included yet. See the list below for more information.
+#### Please keep in mind that this may contain errors.. If you find an error please let me know!
+#### There are also certainly more PACS brands I have not yet included yet. See the list below for more information.
 
 Any badge readers marked with `*****` is still under review.
 
