@@ -6,7 +6,7 @@ I've been building this while studying visual reconnaissance of RFID badge reade
 - https://apps.ankiweb.net/
 - https://github.com/ankidroid/Anki-Android
 
-`Anki` is a very popular flashcard application and is avaliable on all major platforms including mobile ($25 on iOS..).
+`Anki` is a very popular flashcard application and is avaliable on all major platforms including mobile (Free on Desktop/Android! $25 on iOS.. Sorry!).
 
 Just download and install `Anki`. Then `import` the `PACS-Recon.apkg` flashcard deck to get started!
 
