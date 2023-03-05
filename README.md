@@ -7,7 +7,7 @@ I've been building this while studying visual reconnaissance of RFID badge reade
 
 `Anki` is a very popular flashcard application and is avaliable on all major platforms including mobile.
 
-Just download and install `Anki`. Then `import` the `.apkg` flashcard deck to get started!
+Just download and install `Anki`. Then `import` the `PACS-Recon.apkg` flashcard deck to get started!
 
 #### Please keep in mind that this may contain errors.. If you find an error please let me know!
 #### There are also certainly more PACS brands/product lines I have not included yet. See the list below for more information.
