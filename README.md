@@ -6,7 +6,7 @@ I've been building this while studying visual reconnaissance of RFID badge reade
 - https://apps.ankiweb.net/
 - https://github.com/ankidroid/Anki-Android
 
-`Anki` is a very popular flashcard application and is avaliable on all major platforms including mobile
+`Anki` is a very popular flashcard application and is avaliable on all major platforms including mobile and web.
 
 (Free Desktop & Android Apps! $25 on iOS.. Sorry!)
 
