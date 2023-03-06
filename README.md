@@ -12,7 +12,7 @@ I've been building this while studying visual reconnaissance of RFID badge reade
 
 Just download and install `Anki`. Then `import` the `PACS-Recon.apkg` flashcard deck to get started!
 
-### This is not just an educational tool.. This can also be used for quick reference while working in the field.
+#### This is not just an _educational tool_.. It can also be used for quick reference while working in the field.
 
 #### Please keep in mind that this may contain errors.. If you find an error please let me know!
 #### There are also certainly more PACS brands/product lines I have not included (or am aware of) yet.. See the list below for more information.
